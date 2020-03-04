@@ -1,3 +1,9 @@
+# ⛔️ DEPRECATED - use valorin/pwned-validator instead
+
+This fork was created purely for the purpose of creating a pull request. Do not use it, use the original valorin/pwned-validator instead.
+
+https://github.com/valorin/pwned-validator
+
 # Pwned Passwords Validator for Laravel
 
 The Pwned Password validator checks the user's submitted password (in a registration or password change form) with the awesome 
